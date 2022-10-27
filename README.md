@@ -1,5 +1,7 @@
 # hello-world
-just learning
+
+self taught software engineer 
+
 
 Hi there
 
